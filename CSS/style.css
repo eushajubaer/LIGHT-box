@@ -1,0 +1,25 @@
+/* All Common CSS File Start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 8.0;
+}
+/* All Common CSS File End  */
+
+#img_filters{
+    padding: 100px 0;
+    background: chartreuse;
+}
